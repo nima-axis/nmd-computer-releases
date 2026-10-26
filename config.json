@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "announcement": {
+    "id": "welcome-1",
+    "title": "NMD COMPUTER",
+    "text": "Welcome! Check the menu for new links."
+  },
+  "menu": [
+    { "label": "Get IGI 2", "url": "https://www.gog.com/" },
+    { "label": "Game name here", "url": "https://example" }
+  ]
+}
