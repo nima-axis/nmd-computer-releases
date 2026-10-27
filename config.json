@@ -1,9 +1,11 @@
 {
-  "version": 3,
+  "version": 2,
   "announcement": {
     "id": "welcome-1",
     "title": "NMD COMPUTER",
-    "text": "Welcome! Check the menu for new links."
+    "text": "Welcome! Check the menu for new links. (IGI 2 download link aded 😉💖)"
   },
-  "menu": []
+  "menu": [
+    { "label": "Get IGI 2 ZIP", "url": "https://www.mediafire.com/file/91dnd6l7xahl2mw/IGI+2+(NIMESHA+EDITOR).zip/file" }
+  ]
 }
